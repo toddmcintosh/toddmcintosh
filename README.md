@@ -27,7 +27,7 @@ The product domains for these current projects include:
 - [Docker for Developers](https://www.linkedin.com/learning/certificates/1601ace436df25f748a7fbb7c6383455a32c3d4bd584aeaa7d1a281c1a324bd6)
 - [Scrum: The Basics](https://www.linkedin.com/learning/certificates/3499d08dd362828061da6d3b7339061597051a7489e7467d04edbbdab40b5e56)
 
-##Links
+## Links
 - [Threads](https://www.threads.net/@toddcmcintosh)
 -  [Portfolio](https://www.resonancemedia.ca)
 
