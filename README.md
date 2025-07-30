@@ -1,6 +1,4 @@
-# Hi! I'm Todd.
-
-I'm a **full-stack developer** with 20 years of experience.
+**Full-stack developer** with 10+ years of experience.
 
 I love building applications that DO REAL WORK and sites that TELL GREAT STORIES.
 
