@@ -4,14 +4,15 @@ I love building applications that DO REAL WORK and sites that TELL GREAT STORIES
 
 
 ## My current focus is:
-Serverless Web Applications, specifically with
-React (Next.js), Prisma, Planetscale, and Tailwind CSS.
+- Laravel, GraphQL, Apollo
+- React (Next.js), Prisma, Planetscale, and Tailwind CSS.
 
 
 ## What I'm working on
 Currently I'm contributing to a number of companies through contract development work. 
 
 The product domains for these current projects include:
+- ERP system for large North American company that resells/consigns Industrial Equipment/Machinery for global customers
 - Learning Management Systems
 - App rewrite from monolithic ASP.NET 4 (Web Forms) to serverless React/Next.js
 - Industrial Inventory Management + eCommerce platforms 
