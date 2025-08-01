@@ -1,4 +1,4 @@
-**Full-stack developer** with 10+ years of experience.
+**Senior Full-stack Engineer** with 10+ years of experience.
 
 I love building applications that DO REAL WORK and sites that TELL GREAT STORIES.
 
