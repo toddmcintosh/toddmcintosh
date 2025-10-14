@@ -1,11 +1,10 @@
 **Senior Full-stack Engineer** with 10+ years of experience.
 
-I love building applications that DO REAL WORK and sites that TELL GREAT STORIES.
+I love building products that solve interesting problems and deliver value to all stakeholders.
 
 
-## My current focus is:
-- Laravel, GraphQL, Apollo
-- React (Next.js), Prisma, Planetscale, and Tailwind CSS.
+## My recen stack focus has been:
+- Laravel, GraphQL, Apollo, PostgreSQL, React, Next.js, Prisma, Planetscale, Docker
 
 
 ## What I'm working on
