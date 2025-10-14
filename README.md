@@ -3,7 +3,7 @@
 I love building products that solve interesting problems and deliver value to all stakeholders.
 
 
-## My recen stack focus has been:
+## My recent stack focus has been:
 - Laravel, GraphQL, Apollo, PostgreSQL, React, Next.js, Prisma, Planetscale, Docker
 
 
