@@ -17,14 +17,17 @@ The product domains for these current projects include:
 - Industrial Inventory Management + eCommerce platforms 
 - Startup Staff Management app for the Food Services industry.
 
-## Recent Books
+## Recommended Books
 - [Refactoring Typescript (J. Hickey)](https://www.amazon.ca/Refactoring-TypeScript-Keeping-your-healthy-ebook/dp/B07ZGKXCF5)
 - [The Software Engineer's Guidebook (G. Orosz)](https://www.engguidebook.com/?ref=blog.pragmaticengineer.com)
+- [The Pragmatic Programmer](https://www.amazon.ca/dp/0135957052/?coliid=I34CFE47JQ93JV&colid=2RDGITLBE7ERL&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- [Domain-Driven Design](https://www.amazon.ca/dp/0321125215/?coliid=I1BF2NG1B8BR96&colid=2RDGITLBE7ERL&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- [The Devops Handbook](https://www.amazon.ca/dp/1950508404/?coliid=IIMLQCNR5ARZ4&colid=2RDGITLBE7ERL&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
   
 
 ## Links
 - [Threads](https://www.threads.net/@toddcmcintosh)
--  [Portfolio](https://www.resonancemedia.ca)
+- [Portfolio](https://www.resonancemedia.ca)
 
 <!--
 **toddmcintosh/toddmcintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
