@@ -17,6 +17,15 @@ The product domains for these current projects include:
 - Industrial Inventory Management + eCommerce platforms 
 - Startup Staff Management app for the Food Services industry.
 
+## Dev Tools
+- currently getting comfortable in Neovim (via LazyVim framework), and am loving it
+- vsCode (learned vim motions in here before transitioning to Neovim)
+- legacy .net work in visual studio
+- postman for api testing (I know there are cli tools, but this keeps all my projects organized)
+- docker for project separation
+- ci/cd with github actions, but need to learn jenkins soon
+- currently learning go, it's an interesting compromise between dynamically typed single threaded javascript and other more robust multithreaded languages like java and c#.
+
 ## Recommended Books
 - [Refactoring Typescript (J. Hickey)](https://www.amazon.ca/Refactoring-TypeScript-Keeping-your-healthy-ebook/dp/B07ZGKXCF5)
 - [The Software Engineer's Guidebook (G. Orosz)](https://www.engguidebook.com/?ref=blog.pragmaticengineer.com)
