@@ -2,6 +2,8 @@
 
 I love building products that solve interesting problems and deliver value to all stakeholders.
 
+Looking to join a dev team where I can contribute as well as learn from others.
+
 
 ## My recent stack focus has been:
 - Laravel, GraphQL, Apollo, PostgreSQL, React, Next.js, Prisma, Planetscale, Docker
