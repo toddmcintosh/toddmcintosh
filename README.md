@@ -1,8 +1,19 @@
-**Senior Full-stack Engineer** with 10+ years of experience.
+I thrive on utilizing modern application tooling, and learning new cases of engineering best practices, while always setting a high value on measurability and observability in the systems that I build.
 
-I love building products that solve interesting problems and deliver value to all stakeholders.
+Most recently I have been part of a team that rebuilt a large ERP system for NRI Industrial Sales, an Ontario company that specializes in industrial equipment resale. They manage a global inventory of millions of physical items across 20 international warehouses, as well as facilitating a live auction sales front-end for resellers. The platform was a large multi-container AWS-hosted web application with multiple frontends, async task processing, and eBay integration.
 
-Looking to join a dev team where I can contribute as well as learn from others.
+In addition, over the years I have had significant contributions in the educational space by building custom Learning Management Systems, and occasionally assist clients with modernizing legacy systems.
+
+Notable clients I have worked with: 
+- NRI Industrial Sales
+- eLearnology Inc.
+- Parks & Recreation Ontario
+- George Brown College
+- Cineplex Galaxy LLP
+- Centreville Amusement Park
+- Engine Control Systems
+
+As a life-long learner, and self-directed engineer, I most enjoy projects where I can apply my existing skillset while learning new technology, and interacting with other talented engineers that have unique experiences to apply to any challenges at hand.
 
 
 ## My recent stack focus has been:
