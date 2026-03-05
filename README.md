@@ -1,3 +1,5 @@
+With over 10 years of experience as a Senior Full Stack Software Engineer, I work on development teams and solo projects that deliver exceptional value to all stakeholders in various domains and industries. I have extensive experience in cloud-hosted applications, distributed services, as well as traditional monolith tech stacks. 
+
 I thrive on utilizing modern application tooling, and learning new cases of engineering best practices, while always setting a high value on measurability and observability in the systems that I build.
 
 Most recently I have been part of a team that rebuilt a large ERP system for NRI Industrial Sales, an Ontario company that specializes in industrial equipment resale. They manage a global inventory of millions of physical items across 20 international warehouses, as well as facilitating a live auction sales front-end for resellers. The platform was a large multi-container AWS-hosted web application with multiple frontends, async task processing, and eBay integration.
