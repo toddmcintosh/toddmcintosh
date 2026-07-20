@@ -1,4 +1,4 @@
-With over 10 years of experience as a Senior Full Stack Software Engineer, I work on development teams and solo projects that deliver exceptional value to all stakeholders in various domains and industries. I have extensive experience in cloud-hosted applications, distributed services, as well as traditional monolith tech stacks. 
+With over 10 years of experience as a Full Stack Software Engineer, I work on development teams and solo projects that deliver exceptional value to all stakeholders in various domains and industries. I have extensive experience in cloud-hosted applications, distributed services, as well as traditional monolith tech stacks. 
 
 I thrive on utilizing modern application tooling, and learning new cases of engineering best practices, while always setting a high value on measurability and observability in the systems that I build.
 
